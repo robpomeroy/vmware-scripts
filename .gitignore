@@ -1,0 +1,2 @@
+# Scripts may store (encrypted) credentials in a subfolder creds
+creds/**
